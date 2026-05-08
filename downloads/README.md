@@ -1,6 +1,10 @@
-# Downloaded list :
+# Downloads
 
-- [ceno-arm64-v8a-release](./ceno-arm64-v8a-release)
+---
+
+## NO FILE DOWNLOADED YET!
+
+Use the download workflows to add files here.
 
 ---
 
